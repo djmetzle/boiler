@@ -5,10 +5,10 @@ Boilerplate directory structure for your Github Projects!
 ## Purpose
 
 The inspiration for this project came after perusing this repository: 
-- [https://github.com/kriasoft/Folder-Structure-Conventions]
+- https://github.com/kriasoft/Folder-Structure-Conventions
 
 When starting new projects and repositories, boilerplating the project directory structure is a pain in the butt.
-It be great to have a simple way to start with a sane default directory layout.
+It would be great to have a simple way to start a project with a sane default directory layout.
 
 This project intends to provide just that!
 
